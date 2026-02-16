@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Convex generated files
+convex/_generated/
+
+# OS
+.DS_Store
+Thumbs.db
+

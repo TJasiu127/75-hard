@@ -1,0 +1,15 @@
+{
+  "name": "75-hard-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "convex": "^1.12.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+
+  }
+}
